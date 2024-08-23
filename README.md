@@ -16,6 +16,21 @@ My name is Muslim, and I'm a <b>Front-end Developer</b> with 5 years of experien
   </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a> -->
+
+  <a href="https://www.behance.com/muslimragimov" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lezgea/lezgea/master/icons/js.png" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lezgea/lezgea/master/icons/js.png" />
+                    <img src="https://raw.githubusercontent.com/lezgea/lezgea/master/icons/js.png" width="32" height="32" />
+                    </picture>
+  </a>
+  <a href="https://www.behance.com/muslimragimov" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lezgea/lezgea/master/icons/html.png" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lezgea/lezgea/master/icons/html.png" />
+                    <img src="https://raw.githubusercontent.com/lezgea/lezgea/master/icons/html.png" width="32" height="32" />
+                    </picture>
+  </a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
   </a>
