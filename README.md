@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/lezgea/lezgea/master/banner.png "Header")](https://martinheinz.dev/)
+[![Header](https://raw.githubusercontent.com/lezgea/lezgea/master/banner.png "Header")](https://github.com/lezgea)
 
 # Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
