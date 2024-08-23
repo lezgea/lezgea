@@ -27,7 +27,7 @@ I'm a <b>Front-end Developer</b> with 5 years of experience in building scalable
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lezgea/lezgea/master/icons/html.png" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lezgea/lezgea/master/icons/html.png" />
-      <img src="https://raw.githubusercontent.com/lezgea/lezgea/master/icons/html.png" width="32" height="32" alt="HTML"/>
+      <img src="https://raw.githubusercontent.com/lezgea/lezgea/master/icons/html.png" width="28" height="30" alt="HTML"/>
     </picture>
   </a>
   <!-- CSS -->
@@ -35,7 +35,7 @@ I'm a <b>Front-end Developer</b> with 5 years of experience in building scalable
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lezgea/lezgea/master/icons/css.png" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lezgea/lezgea/master/icons/css.png" />
-      <img src="https://raw.githubusercontent.com/lezgea/lezgea/master/icons/css.png" width="32" height="32" alt="CSS"/>
+      <img src="https://raw.githubusercontent.com/lezgea/lezgea/master/icons/css.png" width="28" height="30" alt="CSS"/>
     </picture>
   </a>
   <!-- Python -->
@@ -67,7 +67,7 @@ I'm a <b>Front-end Developer</b> with 5 years of experience in building scalable
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" />
       <source media="(prefers-color-scheme: light)" srcset="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" />
-      <img src="https://www.svgrepo.com/show/373591/expo.svg" width="32" height="30" alt="Expo"/>
+      <img src="https://www.svgrepo.com/show/373591/expo.svg" width="30" height="30" alt="Expo"/>
     </picture>
   </a>
   <!-- Redux -->
@@ -92,6 +92,14 @@ I'm a <b>Front-end Developer</b> with 5 years of experience in building scalable
       <source media="(prefers-color-scheme: dark)" srcset="https://miro.medium.com/v2/resize:fit:1200/1*elhu-42TzQEdsFjKDbQhhA.png" />
       <source media="(prefers-color-scheme: light)" srcset="https://miro.medium.com/v2/resize:fit:1200/1*elhu-42TzQEdsFjKDbQhhA.png" />
       <img src="https://miro.medium.com/v2/resize:fit:1200/1*elhu-42TzQEdsFjKDbQhhA.png" width="32" height="32" alt="React Query"/>
+    </picture>
+  </a>
+  <!-- Agora -->
+  <a href="https://www.agora.io/en/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.prod.website-files.com/660affa848e8af81bdd03909/66ab7f671fb90c022fb7f1dc_Agora%20Logo%20Crisp.webp" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.prod.website-files.com/660affa848e8af81bdd03909/66ab7f671fb90c022fb7f1dc_Agora%20Logo%20Crisp.webp" />
+      <img src="https://cdn.prod.website-files.com/660affa848e8af81bdd03909/66ab7f671fb90c022fb7f1dc_Agora%20Logo%20Crisp.webp" width="60" height="32" alt="Agora"/>
     </picture>
   </a>
   <!-- Git -->
@@ -123,7 +131,7 @@ I'm a <b>Front-end Developer</b> with 5 years of experience in building scalable
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="32" height="32" alt="MongoDB"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="25" height="32" alt="MongoDB"/>
   </picture>
 </a>
 <!-- Express -->
@@ -147,7 +155,7 @@ I'm a <b>Front-end Developer</b> with 5 years of experience in building scalable
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="32" height="32" alt="Sass"/>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="35" height="32" alt="Sass"/>
   </picture>
 </a>
 <!-- Emotion CSS -->
@@ -198,6 +206,22 @@ I'm a <b>Front-end Developer</b> with 5 years of experience in building scalable
     <img src="https://avatars.githubusercontent.com/u/19635045?s=280&v=4" width="32" height="32" alt="Rsuite"/>
   </picture>
 </a>
+<!-- Nativebase -->
+<a href="https://nativebase.io/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.hashnode.com/res/hashnode/image/upload/v1643109960804/iJ6WHws9W.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.hashnode.com/res/hashnode/image/upload/v1643109960804/iJ6WHws9W.png" />
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643109960804/iJ6WHws9W.png" width="32" height="32" alt="Nativebase"/>
+  </picture>
+</a>
+<!-- Formik -->
+<a href="https://formik.org/" target="_blank" rel="noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://images.opencollective.com/formik/7ba0331/logo/256.png" />
+    <source media="(prefers-color-scheme: light)" srcset="https://images.opencollective.com/formik/7ba0331/logo/256.png" />
+    <img src="https://images.opencollective.com/formik/7ba0331/logo/256.png" width="30" height="32" alt="Formik"/>
+  </picture>
+</a>
 <!-- Webpack -->
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
   <picture>
@@ -211,7 +235,7 @@ I'm a <b>Front-end Developer</b> with 5 years of experience in building scalable
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/babel/logo/master/babel.png" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/babel/logo/master/babel.png" />
-    <img src="https://raw.githubusercontent.com/babel/logo/master/babel.png" width="40" height="32" alt="Babel"/>
+    <img src="https://raw.githubusercontent.com/babel/logo/master/babel.png" width="50" height="32" alt="Babel"/>
   </picture>
 </a>
 <!-- Vite -->
