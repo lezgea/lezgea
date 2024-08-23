@@ -1,22 +1,22 @@
 [![Header](https://raw.githubusercontent.com/lezgea/lezgea/master/banner.png "Header")](https://github.com/lezgea)
 
-# Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hey, folks! <img src="https://raw.githubusercontent.com/lezgea/lezgea/master/wave.gif" width="30px" height="30px" />
 
 My name is Muslim, and I'm a <b>Front-end Developer</b> with 5 years of experience in building scalable web and mobile applications using React and React Native. With a solid background in design and a strong understanding of UI/UX principles, I excel at creating intuitive and visually appealing user interfaces. This synergy between development and design enables me to deliver inclusive, user-friendly interfaces that cater to diverse audiences across multiple languages.
 
 ### Skills 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/lezgea/lezgea/master/icons/js.png" width="36" height="36" alt="JavaScript" />
+    <img src="https://raw.githubusercontent.com/lezgea/lezgea/master/icons/js.png" width="35" height="35" alt="JavaScript" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-typescript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-angular-language-javascript-static-type-coding-lang-pack-logos-icons-7577992.png?f=webp" width="36" height="36" alt="TypeScript" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+    <img src="https://raw.githubusercontent.com/lezgea/lezgea/master/icons/html.png" width="36" height="36" alt="HTML5" />
   </a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+    <img src="https://raw.githubusercontent.com/lezgea/lezgea/master/icons/css.png" width="36" height="36" alt="CSS3" />
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
@@ -45,7 +45,6 @@ My name is Muslim, and I'm a <b>Front-end Developer</b> with 5 years of experien
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="36" height="36" alt="Express" />
   </a>
-  <!-- TOOLS -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
   </a>
