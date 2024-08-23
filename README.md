@@ -2,7 +2,7 @@
 
 # Hey, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Muslim, and I am a <b>Front-end Developer</b> with 5 years of experience in building scalable web and mobile applications using React and React Native. With a solid background in design and a strong understanding of UI/UX principles, I excel at creating intuitive and visually appealing user interfaces. This synergy between development and design enables me to deliver inclusive, user-friendly interfaces that cater to diverse audiences across multiple languages.
+My name is Muslim, and I'm a <b>Front-end Developer</b> with 5 years of experience in building scalable web and mobile applications using React and React Native. With a solid background in design and a strong understanding of UI/UX principles, I excel at creating intuitive and visually appealing user interfaces. This synergy between development and design enables me to deliver inclusive, user-friendly interfaces that cater to diverse audiences across multiple languages.
 
 ### Skills 
 <p align="left">
