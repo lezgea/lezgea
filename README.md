@@ -2,7 +2,7 @@
 
 # Hey, folks! <img src="https://raw.githubusercontent.com/lezgea/lezgea/master/wave.gif" width="30px" height="30px" />
 
-I'm an experienced <b>Front-end Developer</b> with over five years of experience in building scalable web and mobile applications using React and React Native. With a solid background in design and a strong understanding of UI/UX principles, I excel at creating intuitive and visually appealing user interfaces. This synergy between development and design enables me to deliver inclusive, user-friendly interfaces that cater to diverse audiences across multiple languages.
+I'm an experienced <b>Front-end Developer</b> with over six years of experience in building scalable web and mobile applications using React and React Native. With a solid background in design and a strong understanding of UI/UX principles, I excel at creating intuitive and visually appealing user interfaces. This synergy between development and design enables me to deliver inclusive, user-friendly interfaces that cater to diverse audiences across multiple languages.
 
 ### Technologies & Tools 
 <p align="left">
