@@ -7,4 +7,4 @@ I'm an experienced <b>Front-end Developer</b> with over six years of experience 
 ### My GitHub Stats
 
 <a href="http://www.github.com/lezgea"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=lezgea&stroke=ffffff&background=22272E&ring=D47BB4&fire=D47BB4&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=6D7178&hide_border=true" /></a>
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=lezgea&stroke=ffffff&background=22272E&ring=18ABDD&fire=18ABDD&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=6D7178&hide_border=true" /></a>
